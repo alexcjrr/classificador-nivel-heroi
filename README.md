@@ -20,5 +20,5 @@ Este projeto é um programa simples em JavaScript que classifica heróis com bas
 
 4. Exibe uma mensagem final no formato:
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas:
 JavaScript (Node.js)
